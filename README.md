@@ -7,6 +7,8 @@ The evaluation metric was: AUC-ROC
 #### Public Leaderboard Score: 0.757398 (10th Place)
 #### Private Leaderboard Score: 0.75287 (3rd Place)
 
+#### In collaboration with: [Aakash Kerawat](https://github.com/aakashkerawat)
+
 #### Instructions to reproduce solution:
 * Run "WNS-adClick_1.ipynb" to generate "sub_1.csv" using competition datasets as inputs
 * Run "WNS-adClick_2.ipynb" to generate "sub_2.csv" using competition datasets as inputs
